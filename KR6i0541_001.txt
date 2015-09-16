@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:22:14.340028
+#+DATE: 2015-08-30 20:22:15.723125
 #+TITLE: 如來師子吼經
 #+PROPERTY: CBETA_ID T17n0835
 #+PROPERTY: ID KR6i0541
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 835
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0541_T_000-0888b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0541_T_001-0888b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.835[No.836]¶
-
- 《如來師子吼經》¶
+No. 835 [No. 836]¶
+《如來師子吼經》¶
 ¶
 元魏天竺三藏佛陀扇多譯¶
 
